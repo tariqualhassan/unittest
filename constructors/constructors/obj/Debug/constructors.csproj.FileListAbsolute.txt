@@ -1,0 +1,6 @@
+c:\users\tariqual\documents\visual studio 2012\Projects\constructors\constructors\bin\Debug\constructors.exe.config
+c:\users\tariqual\documents\visual studio 2012\Projects\constructors\constructors\bin\Debug\constructors.exe
+c:\users\tariqual\documents\visual studio 2012\Projects\constructors\constructors\bin\Debug\constructors.pdb
+c:\users\tariqual\documents\visual studio 2012\Projects\constructors\constructors\obj\Debug\constructors.csprojResolveAssemblyReference.cache
+c:\users\tariqual\documents\visual studio 2012\Projects\constructors\constructors\obj\Debug\constructors.exe
+c:\users\tariqual\documents\visual studio 2012\Projects\constructors\constructors\obj\Debug\constructors.pdb
